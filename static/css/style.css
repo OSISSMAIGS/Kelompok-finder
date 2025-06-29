@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Roboto' sans-serif;
     background: linear-gradient(135deg, rgb(253, 227, 60) 0%, #f0d000 50%, rgb(253, 227, 60) 100%);
     min-height: 100vh;
     display: flex;
@@ -14,8 +14,6 @@ body {
     position: relative;
     overflow-x: hidden;
 }
-
-
 
 .container {
     background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
